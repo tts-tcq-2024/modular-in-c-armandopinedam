@@ -7,7 +7,6 @@
  * how to retrieve wire color combinations and value numbers based on user input.
  */
 
-#include "colorPair.h"
 #include "colorPair_test.h"
 
 int main() {
