@@ -7,7 +7,7 @@
  * combinations and value numbers of wires in telecommunications cables.
  */
 
-#include <colorPair.h>
+#include "colorPair.h"
 
 int numberOfMajorColors =
     sizeof(MajorColorNames) / sizeof(MajorColorNames[0]);

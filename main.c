@@ -9,8 +9,8 @@
 
 #include <stdio.h>
 #include <assert.h>
-#include <colorPair.h>
-#include <colorPair_test.h>
+#include "colorPair.h"
+#include "colorPair_test.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);

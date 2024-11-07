@@ -8,7 +8,7 @@
  * retrieval functions.
  */
 
-#include <colorPair_test.h>
+#include "colorPair_test.h"
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,

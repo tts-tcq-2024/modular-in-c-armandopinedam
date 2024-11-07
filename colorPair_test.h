@@ -11,7 +11,7 @@
 #ifndef COLORPAIR_TEST_H
 #define COLORPAIR_TEST_H
 
-#include <colorPair.h>
+#include "colorPair.h"
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
