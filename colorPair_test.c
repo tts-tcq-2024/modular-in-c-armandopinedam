@@ -7,6 +7,8 @@
  * verifies the correctness of the wire color combination and value number
  * retrieval functions.
  */
+#include <stdio.h>
+#include <assert.h>
 
 #include "colorPair_test.h"
 
